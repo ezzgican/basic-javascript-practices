@@ -106,3 +106,4 @@ module.exports = {
   siralisayilar,
   tekraredensayilar,
 };
+console.log(kareninAlani(5))
